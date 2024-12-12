@@ -1,1 +1,2 @@
-from .draw_subplots import draw_subplots
+from .bar_plot import draw_bar_class_value_counts
+from .scatter_plots import draw_scatter_subplots
